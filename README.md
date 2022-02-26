@@ -8,13 +8,11 @@
 
 
 ## :sassy_man:  About me
-* I'm a curious data enthusiast who loves to code. Ever since i got introduced to programming, i have been obsessed with using code to solve problems or create scripts for tasks.
+* Student at Computer Science & Artifactual Intelligence at Helwan University and my graduation project is about Diabetic Retinopathy Detection, which classifies fundus retina images according to the degree of injury, through the flow of image processing for enhancing images to improve features extraction using a deep learning approach "CNN".
 
-* I'm a student at the Faculty of computer science and artificial intelligence Helwan university.
-During my college years, I am looking for more experience and knowledge and having completed many projects that you can look at on my GitHub. I insist on keeping learning new things every day and I hope I can provide all the knowledge I had. Link: github.com/Abdelrhman2022
+* During my college levels, I worked on many projects and investigated a variety of datasets in different industries to explore historical data and help to improve their sales and answer their questions and support their decisions by emphasizing my analytics with some insights, Data Mining, and Machine Learning techniques like regression models, time series and association role in the market basket.
 
-* I'm currently working as a freelance data analyst which will enable me to enhance my skills and abilities by working on a variety of projects with varying analyses and go forward with my potential career.
-</p>
+* I have learning agility and enhanced analytical and problem-solving skills, advanced knowledge of applied mathematics and statistics, and I believe that my level of education helps me to build a strong career.
 
 
 <br>
