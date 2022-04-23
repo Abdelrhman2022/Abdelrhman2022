@@ -33,11 +33,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abdelrh63667080" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abdelrh63667080" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdel-rahman-ragab-0175b01a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdel-rahman-ragab-0175b01a2/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdelrahman-ragab-0175b01a2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdel-rahman-ragab-0175b01a2/" height="30" width="40" /></a>
 <a href="https://kaggle.com/abdelrhmanragab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdelrhmanragab" height="30" width="40" /></a>
 <a href="https://fb.com/abdalrhmanr2022/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdalrhmanr2022/" height="30" width="40" /></a>
 <a href="https://instagram.com/abdalrhmanragab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdalrhmanragab" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucl-hu9crzt5z_npsfd3ojbg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucl-hu9crzt5z_npsfd3ojbg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCl-Hu9CrZt5z_nPsfd3oJBg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucl-hu9crzt5z_npsfd3ojbg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
