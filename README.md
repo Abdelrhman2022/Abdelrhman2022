@@ -8,9 +8,10 @@
 
 
 ## :sassy_man:  About me
-* I'm graduated from Computer Science & Artifactual Intelligence at Helwan University, during my college levels, I worked on many projects and investigated a variety of datasets in different industries to explore historical data and help to improve their sales and answer their questions and support their decisions by emphasizing my analytics with some insights, Data Mining, and Machine Learning techniques like regression models, time series and association role in the market basket.
 
-* I have learning agility and enhanced analytical and problem-solving skills, advanced knowledge of applied mathematics and statistics, and I believe that my level of education helps me to build a strong career.
+* Professional Data Enthusiast with hands-on experience in Data Analytics and visualization for more than one year, including Business intelligence, Databases, Data Warehouse (DWH), Extract Transform Load (ETL), Data Science, and Statistics, Computer Vision, Natural Language Processing (NLP). Leverage all of them to provide data-driven solutions to help decision-makers
+
+* Graduated from Computer Science & Artifactual Intelligence at Helwan University, I worked on many projects and investigated a variety of datasets in different industries to explore historical data and help to improve their sales and answer their questions and support their decisions by emphasizing my analytics with some insights, Data Mining, and Machine Learning techniques like regression models, time series and association role in the market basket.
 
 
 <br>
